@@ -9,13 +9,13 @@ function App() {
 
   return (
     <>
-      {/* <SignUp />
-      <LoginForm/>
-      <Counter/> */}
+       {/* <SignUp /> */}
+      {/* <LoginForm/> */}
+      {/* <Counter/> */}
 
-<CompA/>
+      <CompA />
     </>
-    )
+  )
 }
 
 export default App
